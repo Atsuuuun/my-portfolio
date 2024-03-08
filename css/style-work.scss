@@ -184,6 +184,9 @@ opening-animation
   .gallery {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
+    padding: 0;
+    grid-gap: 10vw;
+    padding-bottom: 10vw;
   }
   .large,
   .medium,
